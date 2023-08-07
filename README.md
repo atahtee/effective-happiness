@@ -39,7 +39,7 @@ Frame It is a full-stack web application built on the MERN (MongoDB, Express, Re
 
 ## Deployment
 
-The live version of Frame It is deployed on Render and can be accessed at [https://frame-it-djm7.onrender.com/](https://frame-it-app.herokuapp.com/).
+The live version of Frame It is deployed on Render and can be accessed [here](https://frame-it-djm7.onrender.com/).
 
 ## API Endpoints
 

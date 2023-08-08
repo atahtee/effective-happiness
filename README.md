@@ -1,6 +1,6 @@
 # Frame It - A MERN Stack Photo Sharing Application
 
-![Frame It Preview](.src/images/frame-it-preview.jpeg)
+![Frame It Preview](./src/images/frame-it-preview.jpeg)
 
 ## Overview
 

@@ -2,6 +2,10 @@
 
 ![Frame It Preview](./src/images/frame-it-preview.jpeg)
 
+<img src="./src/images/frame-it-preview.jpeg" alt="Frame It Preview" width="300" height="600"/>
+<img src="./src/images/frame-it-preview2.jpeg" alt="Frame It Preview" width="300" height="600"/>
+
+
 ## Overview
 
 Frame-It is a full-stack web application built on the MERN (MongoDB, Express, React, Node.js) stack that allows users to upload and share their favorite pictures along with short descriptions. It provides a simple and elegant platform for users to showcase their memorable photos.
@@ -46,7 +50,7 @@ The live version of Frame It is deployed on Render and can be accessed [here](ht
 
 ## Contact
 
-For any questions or inquiries, feel free to reach out to us at atatisam14@gmail.com or connect with us on LinkedIn:
+For any questions or inquiries, feel free to reach out to atatisam14@gmail.com
 ## License
 
 This project is licensed under the MIT  - see the [LICENSE.md](./LICENSE.md) file for details.

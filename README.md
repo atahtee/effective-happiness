@@ -1,9 +1,8 @@
 # Frame It - A MERN Stack Photo Sharing Application
 
-![Frame It Preview](./src/images/frame-it-preview.jpeg)
 
 <img src="./src/images/frame-it-preview.jpeg" alt="Frame It Preview" width="300" height="600"/>
-<img src="./src/images/frame-it-preview2.jpeg" alt="Frame It Preview" width="300" height="600"/>
+<img src="./src/images/frame-itpreview2.jpeg" alt="Frame It Preview" width="300" height="600"/>
 
 
 ## Overview

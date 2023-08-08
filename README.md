@@ -1,10 +1,10 @@
 # Frame It - A MERN Stack Photo Sharing Application
 
-![Frame It Preview](./screenshots/frame-it-preview.png)
+![Frame It Preview](./images/frame-it-preview.jpeg)
 
 ## Overview
 
-Frame It is a full-stack web application built on the MERN (MongoDB, Express, React, Node.js) stack that allows users to upload and share their favorite pictures along with short descriptions. It provides a simple and elegant platform for users to showcase their memorable photos.
+Frame-It is a full-stack web application built on the MERN (MongoDB, Express, React, Node.js) stack that allows users to upload and share their favorite pictures along with short descriptions. It provides a simple and elegant platform for users to showcase their memorable photos.
 
 ## Features
 

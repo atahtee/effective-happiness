@@ -2,7 +2,7 @@ import axios from 'axios';
 
 //const url = 'http://:5000/posts'; focus time
 //const url = 'https://frame-it-djm7.onrender.com/';
-const url ='https://frame-it-backend.onrender.com/';
+const url ='https://frame-it-backend.onrender.com/posts';
 
 export const fetchPosts = () => axios.get(url);
 export const createPost = (newPost) => axios.post(url,newPost);
